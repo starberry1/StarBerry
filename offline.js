@@ -1,0 +1,32 @@
+﻿{
+	"version": 1490525752,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
+		"images/tiledbackground4.png",
+		"images/tiledbackground5.png",
+		"images/cup-sheet0.png",
+		"images/banana-sheet0.png",
+		"images/blueberry-sheet0.png",
+		"images/kiwi-sheet0.png",
+		"images/mango-sheet0.png",
+		"images/pineapple-sheet0.png",
+		"images/strawberry-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/juicesplash-sheet0.png",
+		"images/boundary2-sheet0.png",
+		"images/felloffcounter-sheet0.png",
+		"images/explosion-sheet0.png",
+		"images/gameover-sheet0.png",
+		"images/pink-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
